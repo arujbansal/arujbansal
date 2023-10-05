@@ -1,6 +1,6 @@
-SAT-Solver Crossword Generator (Wolfram High School Summer Research Program): https://community.wolfram.com/groups/-/m/t/2580271
-Algorithms Conquered: https://www.youtube.com/@AlgorithmsConquered
-CP Drills: https://arujbansal.pythonanywhere.com/
+- SAT-Solver Crossword Generator (Wolfram High School Summer Research Program): https://community.wolfram.com/groups/-/m/t/2580271
+- Algorithms Conquered: https://www.youtube.com/@AlgorithmsConquered
+- CP Drills: https://arujbansal.pythonanywhere.com/
 
 <!--
 **arujbansal/arujbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
