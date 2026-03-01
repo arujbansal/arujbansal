@@ -9,18 +9,18 @@ Next summer, I’ll be joining Optiver as a Software Engineer Intern. I was prev
 <details>
 <summary>Coursework at Duke</summary>
   
-- CS 630: Randomized Algorithms
+- CS 630: Randomized Algorithms **[Graduate]**
 - CS 330: Design and Analysis of Algorithms
 - CS 201: Data Structures and Algorithms
-- ECE 565: Performance Optimization & Parallelism
-- CS 553: Compiler Construction
+- ECE 565: Performance Optimization & Parallelism **[Graduate]**
+- CS 553: Compiler Construction **[Graduate]**
 - CS 390: Compiler Optimizations (Independent Study)
-- CS 550: Advanced Computer Architecture I
+- CS 550: Advanced Computer Architecture I **[Graduate]**
 - CS 250: Computer Architecture
-- CS 516: Database Systems
-- CS 590: Systems for Machine Learning
-- CS 514: Advanced Computer Networks
-- CS 512: Distributed Systems
+- CS 516: Database Systems **[Graduate]**
+- CS 590: Systems for Machine Learning **[Graduate]**
+- CS 514: Advanced Computer Networks **[Graduate]**
+- CS 512: Distributed Systems **[Graduate]**
 - CS 345: Graphics Software Architecture
 - MATH 281S: Problem Solving Seminar
 - MATH 401: Abstract Algebra
